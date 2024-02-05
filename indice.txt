@@ -2,4 +2,3 @@ cap 1: introduccion
 cap 2: flujo de trabajo
 cap 3: gestion de ramas 
 cap 4: repositorios remotos
-Capítulo 5: Conceptos avanzados
